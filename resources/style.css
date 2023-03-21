@@ -1,0 +1,40 @@
+*{
+    font-family: monospace;
+}
+h1{
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2{
+    color: blueviolet;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
+
+}
+
+thead {
+    font-weight: bold;
+    font-size: 20px;
+    background-color: purple;
+    text-align: center;
+    
+}
+
+tbody{
+    background-color: palevioletred;
+    font-size: 15px;
+    text-align: left;
+    
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
